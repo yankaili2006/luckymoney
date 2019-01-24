@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">一聪助手</string>
+    <string name="show_window">悬浮窗</string>
+    <string name="get_assist_permission">服务设置</string>
+    <string name="get_lucky_money">自动抢红包</string>
+    <string name="people_nearby">自动添加附近的人</string>
+    <string name="add_phonebook">自动添加通讯录好友</string>
+    <string name="add_customer">自动添加客户</string>
+    <string name="auto_prize">朋友圈自动点赞</string>
+    <string name="accept_friend_add_2group">接受好友请求并加群</string>
+    <string name="auto_sns">自动发朋友圈</string>
+    <string name="auto_repay">自动回复</string>
+    <string name="crawl_group_msg">自动抓取群信息</string>
+
+    <string name="dialog_enable_accessibility_msg">Enable my Accessibility Service in order to get current activity info on Android 5.0+</string>
+    <string name="dialog_enable_accessibility_positive_btn">Enable It</string>
+    <string name="dialog_enable_overlay_window_msg">Allow permission to show window over other apps on Android 7.1.1+ </string>
+    <string name="dialog_enable_overlay_window_positive_btn">settings</string>
+</resources>
